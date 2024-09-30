@@ -1,0 +1,14 @@
+{
+  "name": "erc20-paymaster",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@pythnetwork/pyth-sdk-solidity": "^4.0.0"
+  }
+}

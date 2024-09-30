@@ -1,8 +1,10 @@
 @account-abstraction-v6/=lib/account-abstraction-v6/
 @account-abstraction-v7/=lib/account-abstraction-v7/
-
+@forge-std/=lib/forge-std/src
 @openzeppelin-v5.0.0/=lib/openzeppelin-contracts-v5.0.0/
 @openzeppelin-v4.8.0/=lib/openzeppelin-contracts-v4.8.0/
 
 @v3-periphery/=lib/v3-periphery
 @uniswap/v3-core/=lib/v3-core
+
+@pythnetwork/pyth-sdk-solidity/=node_modules/@pythnetwork/pyth-sdk-solidity
