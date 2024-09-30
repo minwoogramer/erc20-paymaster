@@ -2,7 +2,7 @@
   "compilerOptions": {
     "outDir": "dist",
     "target": "ES2021",
-    "module": "CommonJS",
+    "module": "NodeNext",
     "moduleResolution": "NodeNext",
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": false,
@@ -12,11 +12,7 @@
     "declaration": true,
     "declarationMap": true,
     "rootDir": "sdk",
-    "lib": [
-      "ES2021"
-    ],
+    "lib": ["ES2021"]
   },
-  "include": [
-    "sdk"
-  ]
+  "include": ["sdk"]
 }
